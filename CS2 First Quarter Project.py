@@ -1,6 +1,6 @@
 import random
 
-# --- Questions for each topic ---
+# --- Questions for each topic start with Spanish---
 spanish_questions = [
     ["Who established the first permanent Spanish settlement in Cebu in 1565?",
      ["A. Ferdinand Magellan", "B. Miguel López de Legazpi", "C. Andres de Urdaneta", "D. Diego Silang"], "B"],
@@ -17,7 +17,7 @@ spanish_questions = [
     ["Which movement included Rizal and Marcelo H. del Pilar?",
      ["A. Katipunan", "B. Propaganda Movement", "C. Hukbalahap", "D. Kilusang Bagong Lipunan"], "B"]
 ]
-
+# --- English---
 american_questions = [
     ["Which event ended Spanish rule and gave control to the U.S. in 1898?",
      ["A. Treaty of Paris", "B. Spanish Civil War", "C. Battle of Waterloo", "D. Boxer Rebellion"], "A"],
@@ -34,7 +34,7 @@ american_questions = [
     ["Which naval battle ended Spanish naval power in the Pacific?",
      ["A. Midway", "B. Manila Bay", "C. Leyte Gulf", "D. Trafalgar"], "B"]
 ]
-
+# --- Japanese---
 japanese_questions = [
     ["When did Japan occupy Manila in WWII?",
      ["A. 1942", "B. 1939", "C. 1950", "D. 1914"], "A"],
